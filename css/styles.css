@@ -22,7 +22,7 @@ footer{background-color:#7AC936;padding-top:50px;font-size:1.5em;font-weight:700
 
 /* Full-width input fields */
 .input input[type=text], input[type=password] {
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
@@ -38,7 +38,7 @@ footer{background-color:#7AC936;padding-top:50px;font-size:1.5em;font-weight:700
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 50%;
 }
 
 .btn button:hover {
@@ -60,8 +60,8 @@ footer{background-color:#7AC936;padding-top:50px;font-size:1.5em;font-weight:700
 }
 
 img.avatar {
-    width: 40%;
-    border-radius: 50%;
+    width: 20%;
+    border-radius: 30%;
 }
 
 .container {
@@ -135,6 +135,6 @@ span.psw {
        float: none;
     }
     .cancelbtn {
-       width: 100%;
+       width: 50%;
     }
 }

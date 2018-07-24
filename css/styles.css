@@ -1,4 +1,5 @@
 .bg-light{background-color:#62C950!important;}
+.navbar-light .navbar-brand{font-size:1.5em;font-weight: 900;letter-spacing:.1rem;}
 .lists ul li{list-style-type:none;}
 section.background{background-image: url(../images/papaya2.jpg);height:646px;}
 .cat{margin-top:50px;height:200px;}
@@ -15,8 +16,10 @@ section.background{background-image: url(../images/papaya2.jpg);height:646px;}
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 .text{text-align: center;font-size:3em;}
-footer{background-color:#7AC936;padding-top:50px;font-size:1.5em;font-weight:700;padding-bottom:50px;}
+footer{background-color:#C47F15;padding-top:50px;padding-bottom:50px;}
 .temp{min-height:200px;}
+.thanks{font-size:1.2em;font-weight:600;color:#c8c8c8;}
+.contacts{font-weight:700;font-size:1.5em;}
 
 
 

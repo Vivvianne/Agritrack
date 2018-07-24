@@ -17,3 +17,8 @@ window.onclick = function(event) {
         modal.style.display = "none";
     };
 };
+$(document).ready(function(){
+ $(".signupbtn").click(function(){
+   alert("You have been successfully added to our email list");
+ });
+});

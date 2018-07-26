@@ -2,7 +2,7 @@ body{background-color:#DAEE3F;}
 .pawpaws{text-align: center;}
 .papaya{padding-top:20px;}
 .btn-primary{margin-left:20px}
-.btn-primary {color: #fff;background-color: #C43613;border-color: #007bff;}
+button{color: #fff;background-color: #C43613;border-color: #007bff;width:20%:}
 .intro{background-color:#EDAC33;}
 .bookmark{background-color:#e2dfd9;margin-top:10px;}
 .bookmark a {font-size:1.5em}

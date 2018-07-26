@@ -3,3 +3,6 @@ body{background-color:#C0821F;}
 .papaya{padding-top:20px;}
 .btn-primary{margin-left:20px}
 .hide{display:none;}
+.highlight {
+  background-color: red;
+}

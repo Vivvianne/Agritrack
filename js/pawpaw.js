@@ -7,9 +7,8 @@ $(document).ready(function(){
 	$("#highlightText").click(function(event){
 		event.preventDefault();
 
-		highlight("fox");
+		highlight("Leaf curl");
 	});
-
 
 
 });

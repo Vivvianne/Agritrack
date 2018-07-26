@@ -1,5 +1,19 @@
-body{background-color:#C0821F;}
+body{background-color:#DAEE3F;}
 .pawpaws{text-align: center;}
 .papaya{padding-top:20px;}
 .btn-primary{margin-left:20px}
-.hide{display:none;}
+.btn-primary {color: #fff;background-color: #C43613;border-color: #007bff;}
+.intro{background-color:#EDAC33;}
+.bookmark{background-color:#e2dfd9;margin-top:10px;}
+.bookmark a {font-size:1.5em}
+.growing{background-image: url(../images/agri.jpeg);background-repeat: no-repeat;background-size: cover;font-size:1.2em;font-weight:900;margin-top: 10px;}
+
+.growing h1{text-align: center;text-decoration: underline; }
+.growing h2{ text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;}
+.culture{background-color: }
+.table1{margin-top: 15px;}
+.table1 table, th, td {
+    border: 1px solid black;}
+.diseases{margin-top: 40px;}
+
+

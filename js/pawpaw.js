@@ -7,10 +7,8 @@ $(document).ready(function(){
 	$("#highlightText").click(function(event){
 		event.preventDefault();
 
-		highlight("Leaf curl");
+		highlight("Leaf Curl");
 	});
-
-
 });
 function highlight(text) {
   var inputText = document.getElementById("inputText");

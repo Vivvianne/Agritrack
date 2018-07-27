@@ -1,7 +1,7 @@
 .navbar-light .navbar-brand{font-size:1.5em;font-weight: 900;letter-spacing:.1rem;}
 .lists ul li{list-style-type:none;}
-section.background{background-image: url(../images/papaya2.jpg);height:646px;}
-.cat{height:200px;background-color:#F8F9FA;padding-top:10px;}
+section.background{background-image: url(../images/dirty.jpg);height:646px;background-size: cover;background-position: center;background-repeat: no-repeat;}
+.cat{height:100px;background-color:#e1e7ed;padding-top:10px;}
 .dropbtn {background-color: #4CAF50;color: white;padding: 16px;font-size: 16px;border: none;}
 .dropdown {position: relative;display: inline-block;}
 /* Dropdown Content (Hidden by Default) */
@@ -20,3 +20,20 @@ footer{background-color:#C47F15;padding-top:50px;padding-bottom:50px;}
 .thanks{font-size:1.2em;font-weight:600;color:#c8c8c8;}
 .contacts{font-weight:700;font-size:1.5em;}
 h2 .btn {font-size:1em;}
+.newform{position: absolute;left:1024px;top:107px;overflow: hidden;}
+.model-content{width:46%;background-color:rgba(255,255,255,.5);}
+.modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 39%;
+    pointer-events: auto;
+    background-color: rgba(255,255,255,.5);
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+}
+address a{color: black;}

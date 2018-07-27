@@ -1,5 +1,5 @@
 ## AGRITRACK
-####{This is an application that tracks plants' and animals' progress throughout the duration of their growth}{date}
+#### {This is an application that tracks plants' and animals' progress throughout the duration of their growth}{date}
 #### By **{Vivianne Kimani, Abigael Murugi, Immanuel Saina, Mandela Rae and Esther Wangari}**
 ## Description
 {Agritrack helps farmers to track their plants and animals easily by providing timely information about their plants and animals as they need them. Farmers will be able to monitor the development of their plants and animals entirely by themselves, using their mobile phone and or computers. They will be able to have an idea of what their plants and animals will need at different times of the plants and animals’ development and be able to know what kind of diseases and pest to look out for and how to solve these problems easily.}
